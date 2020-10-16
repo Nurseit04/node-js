@@ -1,0 +1,25 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "1 nerse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nurseit04/sasdasdasdasdasd.git"
+  },
+  "keywords": [
+    "bbno$"
+  ],
+  "author": "KIRO MEDSESTRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nurseit04/sasdasdasdasdasd/issues"
+  },
+  "homepage": "https://github.com/Nurseit04/sasdasdasdasdasd#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
